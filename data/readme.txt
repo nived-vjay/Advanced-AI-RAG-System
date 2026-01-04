@@ -1,0 +1,1 @@
+Into this folder add PDF documents that you want the RAG system to vectorise and store it into the knowledge base.
