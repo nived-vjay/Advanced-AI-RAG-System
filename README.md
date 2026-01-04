@@ -1,8 +1,8 @@
 # Nexus AI - Advanced RAG System
 
 Nexus AI is a modern, production-ready Retrieval-Augmented Generation (RAG) system built with Flask, PostgreSQL (`pgvector`), and LangChain. It enables fast, context-aware AI interactions grounded in your specific documents and web content.
+(The name is Nexus is only for demonstration purposes)
 
-![Nexus AI Interface](rag/static/favicon.ico) <!-- Replace with actual screenshot path if available -->
 
 ## 🚀 Features
 
